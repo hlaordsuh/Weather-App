@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+  /* background-image: url("https://wi-images.condecdn.net/image/doEYpG6Xd87/crop/2040/f/weather.jpg");
+    background-repeat: no-repeat;
+    background-size: cover; */
+    
+}
+.WF{
+  height: 1em;
+  margin-top: 0.5em;
+  font-size: 50px;
+  font-family: Arial, Helvetica, sans-serif;
+}
